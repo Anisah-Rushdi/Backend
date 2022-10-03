@@ -1,0 +1,96 @@
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
+
+
+.register-class-profile{
+    background-color: white;
+    border: solid 2px;
+    border-color: #F3F4F5;
+    border-radius: 6px;
+    background-color: white;
+    width: 40em;
+    padding: 1em;
+}
+.myPostsTobeDeleted{
+    border: solid 2px #F3F4F5;
+    border-radius: 6px;
+    padding: 0.5em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.deleteButton{
+    background-color: rgb(125, 126, 128);
+    border-color: white;
+}
+/* .deleteButton:hover{
+    background-color: rgb(164, 17, 46);
+    border-color: white;
+} */
+.buttons-div-profile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+.button-profile{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.register-button-profile{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.Create-class-profile{
+    font-weight: bolder;
+}
+
+.react-icon-profile{
+    width:6em;
+}
+
+.react-icon-class-profile{
+    margin: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.myInfo{
+    border-top: 2px solid #F3F4F5;
+    border-radius: 6px;
+    /* background-color: #1d9cf083; */
+   
+    padding: 1em;
+}
+.myPostsSection{
+    padding-top: 2em;
+}
+.myPostsBox{
+    border-top: 2px solid #F3F4F5;
+    border-radius: 6px;
+    /* background-color: #1d9cf083; */
+
+    padding: 1em;
+}
+.myInfoSection{
+    border-bottom: 2px solid #F3F4F5;
+    border-top: 2px solid #F3F4F5;
+    padding-top: 1em;
+}
+
+
+
+.myInfo{
+    border-top: 2px solid #F3F4F5;
+    border-radius: 6px;
+    background-color: #1d9cf083;
+   
+    padding: 1em;
+}

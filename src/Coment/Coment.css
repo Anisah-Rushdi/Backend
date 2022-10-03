@@ -1,0 +1,40 @@
+#comment-itemm {
+    height: fit-content;
+    /* border: 1px solid rgb(241, 241, 241); */
+}
+
+
+#imgg {
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+
+#namee {
+    margin-left: 80px;
+    position: relative;
+    left: 60px;
+    bottom: 50px;
+}
+
+
+.timee {
+    margin-left: 80px;
+    position: relative;
+    left: 59px;
+    bottom: 60px;
+    font-weight: 400;
+}
+
+
+.comment-contentt {
+    word-break: break-all;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: -50px;
+}

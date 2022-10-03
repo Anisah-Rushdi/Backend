@@ -1,0 +1,56 @@
+#react-icon2 {
+    width: 100px;
+    margin-left: 50px;
+    margin-right: 195px;
+    padding-top: 0px;
+    color: black;
+}
+
+.sidebar {
+    /* flex: 3; */
+    margin-left: 0px;
+    height: calc(100vh - 50px);
+    position: sticky;
+    top: 50px;
+  }
+  
+  
+  .sidebarWrapper {
+    margin-left: 0px;
+    padding: 30px;
+  }
+  
+  .sidebarList {
+    color: black;
+    font-size: larger;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+  .sidebarListItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    text-decoration: none;
+
+
+  }
+  
+  .sidebarIcon {
+    margin-right: 15px;
+    color: black;
+  }
+  
+  
+  #liftside{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid rgb(237, 237, 237);
+    height: 100vh;
+    margin-top: 0px;
+}
+
+#main {
+    display: flex;
+}
